@@ -5,6 +5,9 @@
 Unity 2D 기반 생존 액션 게임  
 25-1 컴퓨터 그래픽스 기말 프로젝트
 
+## 🎥 Gameplay Video
+https://youtu.be/KJXvrQpCN_w
+
 ---
 
 ## 🎮 About The Game
